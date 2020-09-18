@@ -13,4 +13,4 @@ snappy uses the configuration file created by the AWS cli i.e.
 
 ## Running
 
-`pipenv run "python snappy/snappy.py"`
+`pipenv run python snappy/snappy.py`
